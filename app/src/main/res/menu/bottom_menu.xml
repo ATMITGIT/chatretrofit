@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Главная"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/menu_user"
+        android:title="Пользователи"
+        android:icon="@drawable/ic_users"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Выход"
+        android:icon="@drawable/ic_logout"/>
+</menu>
